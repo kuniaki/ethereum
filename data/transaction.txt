@@ -1,0 +1,2 @@
+Transaction 1:  A deposites  $1000 to A’s account.             
+Transaction 2:  A sends $1000 to B’s account from A’s account
